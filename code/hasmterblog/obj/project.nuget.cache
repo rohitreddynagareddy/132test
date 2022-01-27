@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbWsBbPFjW3S93eL8m2ciljHuWOBpXvOlDy6GZtP0m4YmkKiwt8VrwHVcgrMhb/0fpDwjlhGIITJd70mb/F/3A==",
+  "success": true,
+  "projectFilePath": "C:\\new1\\code\\hasmterblog\\hasmterblog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
